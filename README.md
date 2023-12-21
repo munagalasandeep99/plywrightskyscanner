@@ -40,6 +40,7 @@ npx playwright install
 
 
 <p>Step 3: Now open the terminal and execute the following command to run the test case we created above.</p>
+
 ## execution
 ```Shell
 npx playwright test ./tests/skyscanner.spec.js --project firefox --headed
