@@ -36,7 +36,7 @@ npx playwright install
 ## Procedure
 
 <p>Step1 : create a file name skyscanner.spec.js in tests folder.</p>
-<p>Step 2: In skyscanner.spec.js add the code from the repository in</p>
+<p>Step 2: add the code of skyscanner.spec.js from the tests folder in the repository</p>
 
 
 <p>Step 3: Now open the terminal and execute the following command to run the test case we created above.</p>
@@ -45,11 +45,10 @@ npx playwright install
 npx playwright test ./tests/skyscanner.spec.js --project firefox --headed
 ```
 
-
 <h1>Results</h1>
 <img width="960" alt="sky1" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/26b49392-2871-45cf-a57c-8082e2497c03">
 
-Challenges:
+## Challenges:
 this code will only work for firefox browser
 
 
