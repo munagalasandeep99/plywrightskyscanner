@@ -45,6 +45,8 @@ npx playwright install
 ```Shell
 npx playwright test ./tests/skyscanner.spec.js --project firefox --headed
 ```
+## execution video
+https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/9b081eea-a20b-4b6a-943f-e26fa27186a8
 
 <h1>Results</h1>
 <img width="960" alt="sky1" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/26b49392-2871-45cf-a57c-8082e2497c03">
