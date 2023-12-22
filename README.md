@@ -74,7 +74,9 @@ https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/9b081e
 
 ## Challenges:
 - Locating Elements: Identifying unique selectors for dynamic elements on the Skyscanner website.
-- this code will only work for firefox browser
+- this code will only work for firefox browser for other browsers it shows
+<img width="960" alt="Screenshot 2023-12-19 002440 (1)" src="https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/e4195a48-6c19-4868-990d-90ea138eee33">
+
 
 
 
