@@ -13,7 +13,30 @@
 
 You can choose any open source testing tool of your choice. For Ex : selenium, playwright, webdriverIO etc
 
-<p>Tool used for testing: <b>Playwright Automation Tool</b></p>
+<p>Approach:</p>
+
+# Tool Selection:
+<p> <b>Playwright Automation Tool</b> Playwright was chosen for its cross-browser compatibility and robust automation capabilities. The test aimed to verify the end-to-end flight search functionality and price comparison on the Skyscanner website.</p>
+
+# Logic and Test Case:
+<p>Navigation and Interaction:</p>
+- Opened Skyscanner website and handled the cookie consent.
+- Set origin and destination locations.
+- Specified travel dates and the number of adults.
+- Initiated a flight search and selected the first flight option.
+- Compare the initial and final ticket prices after clicking the flight option.
+
+# Test Execution:
+<p>Test Steps:</p>
+- Opened the Skyscanner website.
+- Handled the cookie consent.
+- Set the origin and destination locations.
+- Selected travel dates and the number of adults.
+- Initiated a flight search and selected the first flight option.
+- Compare the initial and final ticket prices after clicking the flight option.
+
+# Test Outcome:
+<p>Test Result: Passed</p>
 
 
 ## Installation
@@ -23,8 +46,6 @@ You can choose any open source testing tool of your choice. For Ex : selenium, p
 npm init playwright@latest
 
 ```
-
-### Manually
 
 Add dependency and install browsers.
 
@@ -52,7 +73,9 @@ https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/9b081e
 <img width="960" alt="sky1" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/26b49392-2871-45cf-a57c-8082e2497c03">
 
 ## Challenges:
-this code will only work for firefox browser
+- Locating Elements: Identifying unique selectors for dynamic elements on the Skyscanner website.
+- this code will only work for firefox browser
+
 
 
 
