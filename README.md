@@ -67,10 +67,11 @@ npx playwright install
 npx playwright test ./tests/skyscanner.spec.js --project firefox --headed
 ```
 ## execution video
-https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/9b081eea-a20b-4b6a-943f-e26fa27186a8
+https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/b232c840-dd62-470d-8647-c60bbfcb9359
+
 
 <h1>Results</h1>
-<img width="960" alt="sky1" src="https://github.com/munagalasandeep99/project-FRT/assets/129391713/26b49392-2871-45cf-a57c-8082e2497c03">
+<img width="960" alt="myown" src="https://github.com/munagalasandeep99/plywrightskyscanner/assets/129391713/008d939e-a62d-4f60-8df8-e713c04244ef">
 
 ## Challenges:
 - Locating Elements: Identifying unique selectors for dynamic elements on the Skyscanner website.
